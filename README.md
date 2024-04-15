@@ -1,11 +1,11 @@
 # GraphMaster
 Welcome to GraphMaster, a mathematical function plotting tool.
 
-![GraphMaster](https://github.com/ArmandtErasmus/GraphMaster/blob/main/GraphMaster.png)
+![GraphMasterPhoto](https://github.com/ArmandtErasmus/GraphMaster/blob/main/GraphMaster.png)
 
 ## Usage
 Visit GraphMaster here:
-[GM](https://armandterasmus.github.io/GraphMaster/)
+[GraphMaster](https://armandterasmus.github.io/GraphMaster/)
 
 Enter mathematical expressions like:
 ```python
