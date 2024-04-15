@@ -5,7 +5,7 @@ Welcome to GraphMaster, a mathematical function plotting tool.
 
 ## Usage
 Visit GraphMaster here:
-![GM](https://armandterasmus.github.io/GraphMaster/)
+[GM](https://armandterasmus.github.io/GraphMaster/)
 
 Enter mathematical expressions like:
 ```python
